@@ -1,0 +1,11 @@
+{
+  "name": "com.nuget.microsoftnetdtringtools",
+  "displayName": "Microsoft.NET.StringTools",
+  "author": {
+    "name": "Microsoft"
+  },
+  "version": "17.6.3",
+  "unity": "2021.3",
+  "description": "Microsoft.NET.StringTools DLL access",
+  "dependencies": {}
+}
